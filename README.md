@@ -68,7 +68,13 @@ Password (again):
 Bypass password validation and create user anyway? [y/N]: y
 Superuser created successfully.
 /opt/PyAutomateOps # exit
+```
 
+
+
+更改配置：需要在钉钉开放平台 - 企业内部开发 - 发布自定义机器人
+
+```bash
 "edit automateops app config"
 $ vim /var/lib/docker/volumes/automateops_config/_data/config.ini
 [webops]
