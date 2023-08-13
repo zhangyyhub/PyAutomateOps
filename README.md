@@ -72,7 +72,7 @@ Superuser created successfully.
 
 
 
-更改配置：需要在钉钉开放平台 - 企业内部开发 - 发布自定义机器人
+更改配置：需要在钉钉开放平台 - 企业内部开发 - 发布自定义机器人（出口 IP、[消息接受地址](http://IP:8000/webops/chat_trigger_gitlab_pipeline/)）
 
 ```bash
 "edit automateops app config"
